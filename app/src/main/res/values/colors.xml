@@ -3,4 +3,15 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+    <color name="pink">#f2709c</color>
+    <color name="white">#FfFfFf</color>
+    <color name="orange">#ff9472  </color>
+
+
+
+    <color name="darkGrey">#E55D87</color>
+    <color name="LightGrey">#5FC3E4</color>
+
+
+
 </resources>
